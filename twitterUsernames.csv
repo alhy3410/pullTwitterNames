@@ -1,0 +1,791 @@
+Category,Sub-Category,Sub Sub-Category,Twitter Username
+ brands,accommodation,No Sub Sub-Category,fiestainn
+ brands,accommodation,No Sub Sub-Category,fiestamericana
+ brands,accommodation,No Sub Sub-Category,DreamsResorts
+ brands,accommodation,No Sub Sub-Category,GRUPOHABITA
+ brands,accommodation,No Sub Sub-Category,CaminoReal
+ brands,accommodation,No Sub Sub-Category,onehoteles
+ brands,accommodation,No Sub Sub-Category,StRegisPMita
+ brands,accommodation,No Sub Sub-Category,Hoteles_Mision
+ brands,accommodation,No Sub Sub-Category,FSPuntaMita
+ brands,accommodation,No Sub Sub-Category,Karismahotels
+ brands,airlines,No Sub Sub-Category,viajaVolaris
+ brands,airlines,No Sub Sub-Category,AeroMexico
+ brands,airlines,No Sub Sub-Category,VivaAerobus
+ brands,airlines,No Sub Sub-Category,interjet
+ brands,airlines,No Sub Sub-Category,AM_Escucha
+ brands,airlines,No Sub Sub-Category,interjet_mx
+ brands,airlines,No Sub Sub-Category,flyvolaris
+ brands,airlines,No Sub Sub-Category,AirFranceMX
+ brands,airlines,No Sub Sub-Category,TAR_mx
+ brands,airlines,No Sub Sub-Category,AeromarMX
+ brands,alcohol,beer,VictoriaMx_
+ brands,alcohol,beer,cervezaindio
+ brands,alcohol,beer,CervezaModeloMX
+ brands,alcohol,beer,BudLightMEX
+ brands,alcohol,beer,CervezaTecate
+ brands,alcohol,beer,CartaBlancaMx
+ brands,alcohol,beer,NegraModelo
+ brands,alcohol,beer,CervezaSol
+ brands,alcohol,beer,Heineken_MX
+ brands,alcohol,beer,DosEquisMx
+ brands,alcohol,spirits,JohnnieWalkerMx
+ brands,alcohol,spirits,captainmorganmx
+ brands,alcohol,spirits,BacardiMX
+ brands,alcohol,spirits,BuchanansMexico
+ brands,alcohol,spirits,zignummezcal
+ brands,alcohol,spirits,azul_centenario
+ brands,alcohol,spirits,absolutmexico
+ brands,alcohol,spirits,jagerMX
+ brands,alcohol,spirits,TorresMx_
+ brands,alcohol,spirits,JB_Mex
+ brands,alcohol,wine,vinoteca_mexico
+ brands,alcohol,wine,VinosLACetto
+ brands,alcohol,wine,FreixenetMX
+ brands,alcohol,wine,BoonesLat
+ brands,alcohol,wine,SomersbyMX
+ brands,alcohol,wine,Strongbowgoldmx
+ brands,auto,No Sub Sub-Category,Volkswagen_MX
+ brands,auto,No Sub Sub-Category,Nissan_mx
+ brands,auto,No Sub Sub-Category,SEAT_Mexico
+ brands,auto,No Sub Sub-Category,AudideMexico
+ brands,auto,No Sub Sub-Category,ChevroletMexico
+ brands,auto,No Sub Sub-Category,FordMX
+ brands,auto,No Sub Sub-Category,MercedesBenzMx
+ brands,auto,No Sub Sub-Category,HondaMexico
+ brands,auto,No Sub Sub-Category,ToyotaMex
+ brands,auto,No Sub Sub-Category,DodgeMX
+ brands,beauty,hygiene,PrudenceMexico
+ brands,beauty,hygiene,KotexMx
+ brands,beauty,hygiene,sicomx
+ brands,beauty,hygiene,huggiesmexico
+ brands,beauty,hygiene,Saba_mx
+ brands,beauty,hygiene,ListerineMX
+ brands,beauty,hygiene,pbcondoms_mx
+ brands,beauty,hygiene,BenzalMX
+ brands,beauty,hygiene,AlwaysMX
+ brands,beauty,hygiene,KleenexMx
+ brands,beverages,coffee-tea,NescafeMX
+ brands,beverages,coffee-tea,cpuntadelcielo
+ brands,beverages,coffee-tea,CoffeeMateMex
+ brands,beverages,coffee-tea,abuelitamx
+ brands,beverages,coffee-tea,NespressoMX
+ brands,beverages,coffee-tea,CafeOle_
+ brands,beverages,coffee-tea,cafe_BLASON
+ brands,beverages,coffee-tea,garcomex
+ brands,beverages,soft-drink,CocaColaMx
+ brands,beverages,soft-drink,PepsiMEX
+ brands,beverages,soft-drink,FUZEteaMx
+ brands,beverages,soft-drink,redbullMEX
+ brands,beverages,soft-drink,CocaColaFM
+ brands,beverages,soft-drink,gatorademex
+ brands,beverages,soft-drink,CocaColaZeroMx
+ brands,beverages,soft-drink,SpriteMx
+ brands,beverages,soft-drink,PoweradeMx
+ brands,beverages,soft-drink,MonsterEnergyMx
+ brands,beverages,water,zoe_water
+ brands,beverages,water,cielmx
+ brands,beverages,water,PerrierMX
+ brands,beverages,water,BonafontMexico
+ brands,beverages,water,BonafontACasa
+ brands,beverages,water,spellegrino_mx
+ brands,conglomerate,No Sub Sub-Category,Grupo_Carso
+ brands,conglomerate,No Sub Sub-Category,GrupoEmpAngeles
+ brands,ecommerce,e-shop,SHOPATIA
+ brands,ecommerce,e-shop,QUIUBOLEE
+ brands,ecommerce,e-shop,BestBuyMexico
+ brands,ecommerce,e-shop,LinioMexico
+ brands,ecommerce,e-shop,amazonmex
+ brands,ecommerce,e-shop,ebay_Mexico
+ brands,ecommerce,e-shop,PriceShoes
+ brands,ecommerce,e-shop,Netshoes_MEX
+ brands,ecommerce,e-shop,Libros_G
+ brands,ecommerce,e-shop,Kichink
+ brands,ecommerce,travel-booking,HotelesCom
+ brands,ecommerce,travel-booking,DespegarMx
+ brands,ecommerce,travel-booking,Travelocity_MX
+ brands,ecommerce,travel-booking,KivacMX
+ brands,ecommerce,travel-booking,ExpediaMX
+ brands,ecommerce,travel-booking,trivago_mx
+ brands,electronics,appliance,Mabe
+ brands,electronics,appliance,frigidairemx
+ brands,electronics,appliance,SanRemoLatin
+ brands,electronics,computer,HPMexico
+ brands,electronics,computer,MXASUS
+ brands,electronics,computer,acer_mexico
+ brands,electronics,computer,HPenterpriseMX
+ brands,electronics,computer,AlienwareMexico
+ brands,electronics,computer,DeII_Mexico
+ brands,electronics,phone,samsungmobilemx
+ brands,electronics,phone,Motorola_MX
+ brands,electronics,phone,LumiaMexico
+ brands,electronics,phone,sonyxperiamx
+ brands,electronics,phone,HuaweiDeviceMx
+ brands,electronics,phone,HTCMexico
+ brands,electronics,phone,LanixMobileMX
+ brands,electronics,phone,ZTE_Mx
+ brands,electronics,phone,OPPOMexico
+ brands,electronics,phone,ZTEMEX
+ brands,fmcg-corporate,No Sub Sub-Category,recetasnestle
+ brands,fmcg-corporate,No Sub Sub-Category,Grupo_Bimbo
+ brands,fmcg-corporate,No Sub Sub-Category,FEMSA
+ brands,fmcg-corporate,No Sub Sub-Category,PepsiCoMex
+ brands,fmcg-corporate,No Sub Sub-Category,TalentoMarsMx
+ brands,fmcg-corporate,No Sub Sub-Category,UFS_Mx
+ brands,fmcg-corporate,No Sub Sub-Category,HERDEZconfianza
+ brands,fmcg-corporate,No Sub Sub-Category,DondeOficial
+ brands,fmcg-corporate,No Sub Sub-Category,Pernod_RicardMx
+ brands,fmcg-corporate,No Sub Sub-Category,Distri_Cente
+ brands,fmcg-food,baby-food,mahpurelove
+ brands,fmcg-food,baby-food,ProgressGoldMx
+ brands,fmcg-food,baby-food,NidoMexico
+ brands,fmcg-food,confectionery,BarcelMx
+ brands,fmcg-food,confectionery,Doritos_Mx
+ brands,fmcg-food,confectionery,Papas_Sabritas
+ brands,fmcg-food,confectionery,CoronadoCajeta
+ brands,fmcg-food,confectionery,MagnumMexico
+ brands,fmcg-food,confectionery,Trident_mx
+ brands,fmcg-food,confectionery,Ruffles_Mx
+ brands,fmcg-food,confectionery,SNICKERSMexico
+ brands,fmcg-food,confectionery,TakisMx
+ brands,fmcg-food,confectionery,HotNutsOficial
+ brands,fmcg-food,dairy,SomosLALA
+ brands,fmcg-food,dairy,quiendicebreak
+ brands,fmcg-food,dairy,OikosMexico
+ brands,fmcg-food,dairy,alpuraoficial
+ brands,fmcg-food,dairy,BeneGastroMx
+ brands,fmcg-food,dairy,YoplaitMexico
+ brands,fmcg-food,dairy,philadelphiamx
+ brands,fmcg-food,dairy,LALAGrekos
+ brands,fmcg-food,dairy,DanetteMx
+ brands,fmcg-food,dairy,DanoneMX
+ brands,fashion,accessories,kiplingmexico
+ brands,fashion,accessories,SamsoniteMx
+ brands,fashion,accessories,mllagunom
+ brands,fashion,accessories,FosterGrantMx
+ brands,fashion,accessories,Crabtree_mx
+ brands,fashion,accessories,MochilasChenson
+ brands,fashion,accessories,SquidsBrand
+ brands,fashion,clothing,MascaraDeLatex
+ brands,fashion,clothing,LevisMX
+ brands,fashion,clothing,converse_mexico
+ brands,fashion,clothing,theDenimRebel
+ brands,fashion,clothing,vans_mx
+ brands,fashion,clothing,AEO_MX
+ brands,fashion,clothing,Timberland_MX
+ brands,fashion,clothing,NewEraMx
+ brands,fashion,clothing,andreaenlinea
+ brands,fashion,clothing,typewear
+ brands,fashion,jewelry,swarovskimexico
+ brands,fashion,jewelry,platapenoles
+ brands,fashion,jewelry,SwatchMX
+ brands,fashion,jewelry,BoandCo
+ brands,fashion,jewelry,emwaoficial
+ brands,finance,bank,Banxico
+ brands,finance,bank,banamex
+ brands,finance,bank,BBVABancomer
+ brands,finance,bank,SantanderMx
+ brands,finance,bank,ContactoBanamex
+ brands,finance,bank,nafinsa
+ brands,finance,bank,BBVABancomerRe
+ brands,finance,bank,ScotiabankMX
+ brands,finance,bank,smarttitude
+ brands,finance,bank,bancomext
+ brands,finance,insurance,AXAMexico
+ brands,finance,insurance,MetLifeMx
+ brands,finance,insurance,QualitasSeguro
+ brands,finance,insurance,ABASEGUROS
+ brands,finance,insurance,Seguros_Atlas
+ brands,finance,insurance,ByPSeguro
+ brands,finance,payment,MasterCardMex
+ brands,finance,payment,VisaNegocios
+ brands,finance,payment,Billpocket
+ brands,finance,payment,SafetyPayMexico
+ brands,gambling,No Sub Sub-Category,calientesports
+ brands,gambling,No Sub Sub-Category,bigbolacasinos7
+ brands,healthcare,No Sub Sub-Category,PfizerMexico
+ brands,healthcare,No Sub Sub-Category,INPRFM
+ brands,healthcare,No Sub Sub-Category,Grupo_Pisa
+ brands,healthcare,No Sub Sub-Category,LMPolanco
+ brands,healthcare,No Sub Sub-Category,MarieStopesMex
+ brands,healthcare,No Sub Sub-Category,GenommaLab
+ brands,healthcare,No Sub Sub-Category,EliteMedicalMX
+ brands,healthcare,No Sub Sub-Category,Sanofimx
+ brands,healthcare,No Sub Sub-Category,DiabetesMDTLA
+ brands,healthcare,No Sub Sub-Category,DemesaMx
+ brands,home-living,children,KlinOficial
+ brands,home-living,children,nubymex
+ brands,home-living,children,bbtipsmexico
+ brands,home-living,children,EvenfloMexico
+ brands,home-living,children,BritaxMx
+ brands,home-living,children,elsecretoavent
+ brands,home-living,children,PIGEONMEXICO
+ brands,home-living,children,AventDicsa
+ brands,home-living,furniture,Muebles_Dico
+ brands,home-living,furniture,MueblesInoba1
+ brands,home-living,furniture,RocheBoboisMX
+ brands,home-living,toys-games,JUGUETRON
+ brands,home-living,toys-games,MegabloksMx
+ brands,home-living,toys-games,Hasbro_MX
+ brands,household-goods,chemicals,PinturasComex
+ brands,household-goods,chemicals,PinturasSherwin
+ brands,household-goods,chemicals,PinturasBehr
+ brands,household-goods,chemicals,Ace_Mexico
+ brands,household-goods,chemicals,AirwickMexico
+ brands,household-goods,chemicals,Finish_Mexico
+ brands,household-goods,chemicals,PinolElOriginal
+ brands,household-goods,chemicals,cloralexfamilia
+ brands,household-goods,chemicals,MAS_Color
+ brands,household-goods,chemicals,PersilMx
+ brands,household-goods,pets,Purina_DogChow
+ brands,household-goods,pets,Pedigree_Mex
+ brands,household-goods,pets,GanadorCroqueta
+ brands,household-goods,pets,EukanubaMx
+ brands,household-goods,pets,NupecOficial
+ brands,household-goods,pets,CroquetasChop
+ brands,household-goods,pets,WhiskasMexico
+ brands,household-goods,pets,GranCanMx
+ brands,household-goods,pets,RoyalCaninMex
+ brands,household-goods,pets,PurinaFelix
+ brands,industrial,No Sub Sub-Category,Pemex
+ brands,industrial,No Sub Sub-Category,SchneiderMX
+ brands,industrial,No Sub Sub-Category,CEMEX
+ brands,industrial,No Sub Sub-Category,faomexico
+ brands,industrial,No Sub Sub-Category,oxxogas
+ brands,industrial,No Sub Sub-Category,lacruzazul
+ brands,industrial,No Sub Sub-Category,GNF_mx
+ brands,industrial,No Sub Sub-Category,Fundacion_ICA
+ brands,industrial,No Sub Sub-Category,Masisa_mx
+ brands,industrial,No Sub Sub-Category,CEMEXMx
+ brands,retail,No Sub Sub-Category,LibreriasGandhi
+ brands,retail,No Sub Sub-Category,liverpoolmexico
+ brands,retail,No Sub Sub-Category,WalmartMexico
+ brands,retail,No Sub Sub-Category,Moda_Suburbia
+ brands,retail,No Sub Sub-Category,MixupTeam
+ brands,retail,No Sub Sub-Category,solosanborns
+ brands,retail,No Sub Sub-Category,SamsClubMexico
+ brands,retail,No Sub Sub-Category,TheHomeDepotMx
+ brands,retail,No Sub Sub-Category,searsmexico
+ brands,retail,No Sub Sub-Category,la_comer
+ brands,retail-food,No Sub Sub-Category,StarbucksMex
+ brands,retail-food,No Sub Sub-Category,dominosmx
+ brands,retail-food,No Sub Sub-Category,McDonaldsMexico
+ brands,retail-food,No Sub Sub-Category,BurgerKingMX
+ brands,retail-food,No Sub Sub-Category,CHILISMEXICO
+ brands,retail-food,No Sub Sub-Category,subwaymexico
+ brands,retail-food,No Sub Sub-Category,CielitoQuerido
+ brands,retail-food,No Sub Sub-Category,OliveGardenMx
+ brands,retail-food,No Sub Sub-Category,LaDestileriaMX
+ brands,retail-food,No Sub Sub-Category,WINGS_MX
+ brands,services,agency,SocialMexico
+ brands,services,agency,SBGDL
+ brands,services,agency,LlorenteyCuenca
+ brands,services,agency,C_InteligenteMx
+ brands,services,agency,VCMaltusmedia
+ brands,services,agency,ColoursMexico
+ brands,services,agency,DDBMexico
+ brands,services,agency,Gelattina
+ brands,services,agency,SocialMediaMexC
+ brands,services,agency,MediaSourceMX
+ brands,services,housing,Homex_Mx
+ brands,services,housing,ActitudNew40s
+ brands,services,housing,Inmuebles24
+ brands,services,housing,casas_geo
+ brands,services,housing,SadasiOficial
+ brands,services,housing,MarhnosHabitat
+ brands,services,housing,C21Cancun
+ brands,services,housing,c21mexico
+ brands,services,housing,GEO_Jalisco
+ brands,services,housing,LamudiMX
+ brands,services,mail-shipping,Grupo_ampm
+ brands,services,mail-shipping,FerromexOficial
+ brands,services,transportation,MetroCDMX
+ brands,services,transportation,tuADO
+ brands,services,transportation,Primera_Plus
+ brands,services,transportation,ETNTURISTAR
+ brands,services,transportation,gruposenda
+ brands,services,transportation,estrellarojapue
+ brands,services,transportation,estrella_de_oro
+ brands,services,transportation,JC_Express
+ brands,services,transportation,EXPRESSMG
+ brands,services,wellness,sportcity_mx
+ brands,services,wellness,SportsWorldMex
+ brands,services,wellness,SmartFitMex
+ brands,services,wellness,MEICMEDSPA
+ brands,services,wellness,Energy_F
+ brands,services,wellness,SportiumClub
+ brands,services,wellness,spacollection
+ brands,services,wellness,GoldsGymPolanco
+ brands,services,wellness,TotalFitnessMeX
+ brands,services,wellness,kmwmexico
+ brands,software,game-developer,eamexico
+ brands,software,game-developer,UbisoftMexico
+ brands,software,game-developer,RevartsGaming
+ brands,software,game-developer,EAMobilemx
+ brands,software,game-developer,PlayfulPlay
+ brands,software,game-developer,AlucinaStudio
+ brands,sporting-goods,No Sub Sub-Category,Nikefutbolmx
+ brands,sporting-goods,No Sub Sub-Category,adidasMX
+ brands,sporting-goods,No Sub Sub-Category,nikecorremx
+ brands,sporting-goods,No Sub Sub-Category,PUMAmexico
+ brands,sporting-goods,No Sub Sub-Category,NSWMexico
+ brands,sporting-goods,No Sub Sub-Category,NikeSBMexico
+ brands,sporting-goods,No Sub Sub-Category,adidasFMF
+ brands,sporting-goods,No Sub Sub-Category,UnderArmourMx
+ brands,sporting-goods,No Sub Sub-Category,Voit
+ brands,sporting-goods,No Sub Sub-Category,ReebokMx
+ brands,telecom,No Sub Sub-Category,Telcel
+ brands,telecom,No Sub Sub-Category,IUSACELL
+ brands,telecom,No Sub Sub-Category,DishMx
+ brands,telecom,No Sub Sub-Category,MovistarMX
+ brands,telecom,No Sub Sub-Category,MiMovistarMX
+ brands,telecom,No Sub Sub-Category,ServicioTelcel
+ brands,telecom,No Sub Sub-Category,Telmex
+ brands,telecom,No Sub Sub-Category,NextelMX
+ brands,telecom,No Sub Sub-Category,TELMEXSoluciona
+ brands,telecom,No Sub Sub-Category,infinitum
+ brands,travel,No Sub Sub-Category,destinosincre
+ brands,travel,No Sub Sub-Category,BestDay_Travel
+ brands,travel,No Sub Sub-Category,MexicoDestinos
+ brands,travel,No Sub Sub-Category,PriceTravel
+ brands,travel,No Sub Sub-Category,mundo_joven
+ brands,travel,No Sub Sub-Category,CityExpressMX
+ brands,travel,No Sub Sub-Category,LOSCABOSTOURISM
+ brands,travel,No Sub Sub-Category,RoyalMX
+ brands,travel,No Sub Sub-Category,riv_nayarit
+ brands,travel,No Sub Sub-Category,vallarta_advent
+ celebrities,actor,No Sub Sub-Category,Anahi
+ celebrities,actor,No Sub Sub-Category,EugenioDerbez
+ celebrities,actor,No Sub Sub-Category,ChespiritoRGB
+ celebrities,actor,No Sub Sub-Category,DulceMaria
+ celebrities,actor,No Sub Sub-Category,GalileaMontijo
+ celebrities,actor,No Sub Sub-Category,OMARCHAPARRO
+ celebrities,actor,No Sub Sub-Category,facufacundo
+ celebrities,actor,No Sub Sub-Category,AndreaLegarreta
+ celebrities,actor,No Sub Sub-Category,MaiteOficial
+ celebrities,actor,No Sub Sub-Category,jaimecamil
+ celebrities,artist,No Sub Sub-Category,manedelaparra
+ celebrities,artist,No Sub Sub-Category,brandon_meza
+ celebrities,artist,No Sub Sub-Category,_snuppy08
+ celebrities,artist,No Sub Sub-Category,marchenacindy
+ celebrities,artist,No Sub Sub-Category,gissellesampayo
+ celebrities,artist,No Sub Sub-Category,lvlFlvl
+ celebrities,artist,No Sub Sub-Category,_yaareet
+ celebrities,artist,No Sub Sub-Category,elshowdehector
+ celebrities,artist,No Sub Sub-Category,lapizito123
+ celebrities,artist,No Sub Sub-Category,productor_mejia
+ celebrities,broadcast-star,No Sub Sub-Category,LAURAGII
+ celebrities,broadcast-star,No Sub Sub-Category,Adela_Micha
+ celebrities,broadcast-star,No Sub Sub-Category,soyfdelrincon
+ celebrities,broadcast-star,No Sub Sub-Category,InesSainzG
+ celebrities,broadcast-star,No Sub Sub-Category,CaELiKe
+ celebrities,broadcast-star,No Sub Sub-Category,VeronicaBastos1
+ celebrities,broadcast-star,No Sub Sub-Category,villalobossebas
+ celebrities,broadcast-star,No Sub Sub-Category,rbigorra
+ celebrities,broadcast-star,No Sub Sub-Category,Juanjaramilloe
+ celebrities,broadcast-star,No Sub Sub-Category,SERGESEPULVEDA
+ celebrities,disc-jockey,No Sub Sub-Category,djfabianhdz
+ celebrities,disc-jockey,No Sub Sub-Category,erickrincon
+ celebrities,disc-jockey,No Sub Sub-Category,FERNANDOGARIBAY
+ celebrities,fashion-star,No Sub Sub-Category,Delamori
+ celebrities,fashion-star,No Sub Sub-Category,maalessandri
+ celebrities,fashion-star,No Sub Sub-Category,rebecadealba
+ celebrities,fashion-star,No Sub Sub-Category,ClaudiaLizaldi
+ celebrities,fashion-star,No Sub Sub-Category,oliperalta
+ celebrities,fashion-star,No Sub Sub-Category,murguiaregina
+ celebrities,fashion-star,No Sub Sub-Category,LUPITAJONESFANS
+ celebrities,fashion-star,No Sub Sub-Category,florivonVeliz
+ celebrities,fashion-star,No Sub Sub-Category,BrendaZambranoC
+ celebrities,fashion-star,No Sub Sub-Category,CarolinaTurrona
+ celebrities,musician,No Sub Sub-Category,jesseyjoy
+ celebrities,musician,No Sub Sub-Category,zoetheband
+ celebrities,musician,No Sub Sub-Category,Oficial
+ celebrities,musician,No Sub Sub-Category,ReikMx
+ celebrities,musician,No Sub Sub-Category,haashoficial
+ celebrities,musician,No Sub Sub-Category,manaoficial
+ celebrities,musician,No Sub Sub-Category,cafetacvba
+ celebrities,musician,No Sub Sub-Category,MolotovBanda
+ celebrities,musician,No Sub Sub-Category,Arrolladora
+ celebrities,musician,No Sub Sub-Category,ElRecodoOficial
+ celebrities,singer,No Sub Sub-Category,paurubio
+ celebrities,singer,No Sub Sub-Category,thalia
+ celebrities,singer,No Sub Sub-Category,NoelSchajris
+ celebrities,singer,No Sub Sub-Category,syntekoficial
+ celebrities,singer,No Sub Sub-Category,GloriaTrevi
+ celebrities,singer,No Sub Sub-Category,LuceroMexico
+ celebrities,singer,No Sub Sub-Category,julietav
+ celebrities,singer,No Sub Sub-Category,alexoficial
+ celebrities,singer,No Sub Sub-Category,belindapop
+ celebrities,singer,No Sub Sub-Category,EspinozaOficial
+ celebrities,sport-star,No Sub Sub-Category,CH14_
+ celebrities,sport-star,No Sub Sub-Category,OficialGio
+ celebrities,sport-star,No Sub Sub-Category,cuauhtemocb10
+ celebrities,sport-star,No Sub Sub-Category,yosoy8a
+ celebrities,sport-star,No Sub Sub-Category,RafaMarquezMX
+ celebrities,sport-star,No Sub Sub-Category,MiguelHerreraDT
+ celebrities,sport-star,No Sub Sub-Category,OribePeralta
+ celebrities,sport-star,No Sub Sub-Category,jona2santos
+ celebrities,sport-star,No Sub Sub-Category,GarciaPosti
+ celebrities,sport-star,No Sub Sub-Category,MarcoFabian_10
+ celebrities,writer,No Sub Sub-Category,lopezdoriga
+ celebrities,writer,No Sub Sub-Category,DeniseDresserG
+ celebrities,writer,No Sub Sub-Category,joserra_espn
+ celebrities,writer,No Sub Sub-Category,Faitelson_ESPN
+ celebrities,writer,No Sub Sub-Category,JavierSolorzano
+ celebrities,writer,No Sub Sub-Category,Eponiatowska
+ celebrities,writer,No Sub Sub-Category,lydiacachosi
+ celebrities,writer,No Sub Sub-Category,monicagarzag
+ celebrities,writer,No Sub Sub-Category,albertolati
+ celebrities,writer,No Sub Sub-Category,gaby_vargas
+ community,erotic,No Sub Sub-Category,YuriLuv
+ community,erotic,No Sub Sub-Category,La_Barbie_Regia
+ community,erotic,No Sub Sub-Category,MsVeracruzXXX
+ community,erotic,No Sub Sub-Category,ink_adict
+ community,erotic,No Sub Sub-Category,NenaSEXO1
+ community,erotic,No Sub Sub-Category,Vinausexxx
+ community,erotic,No Sub Sub-Category,LaMalaC0sa
+ community,film,No Sub Sub-Category,CinePREMIERE
+ community,film,No Sub Sub-Category,CinemaNET
+ community,film,No Sub Sub-Category,Filmsteria
+ community,film,No Sub Sub-Category,CineTradicional
+ community,film,No Sub Sub-Category,TelevisaCine
+ community,fun,No Sub Sub-Category,ViceMexico
+ community,fun,No Sub Sub-Category,estacosa_com
+ community,hobbies,No Sub Sub-Category,AristoteIes
+ community,hobbies,No Sub Sub-Category,ZodiacoHoy
+ community,hobbies,No Sub Sub-Category,TodoReflexion
+ community,hobbies,No Sub Sub-Category,SomeecardES
+ community,hobbies,No Sub Sub-Category,LaComadree
+ community,hobbies,No Sub Sub-Category,EresPensamiento
+ community,hobbies,No Sub Sub-Category,EsTextos
+ community,hobbies,No Sub Sub-Category,Female_StruggIe
+ community,hobbies,No Sub Sub-Category,SusReflexiones
+ community,hobbies,No Sub Sub-Category,MovimientoEPN
+ community,life-style,No Sub Sub-Category,sopitas
+ community,life-style,No Sub Sub-Category,NotiModa
+ community,life-style,No Sub Sub-Category,CancunAllure
+ community,life-style,No Sub Sub-Category,InStyleMexico
+ community,life-style,No Sub Sub-Category,chefkiwilimon
+ community,life-style,No Sub Sub-Category,chef_oropeza
+ community,life-style,No Sub Sub-Category,modareforma
+ community,life-style,No Sub Sub-Category,1FILAmx
+ community,life-style,No Sub Sub-Category,iNotasMusicales
+ community,life-style,No Sub Sub-Category,Fashi0nTech
+ community,music,No Sub Sub-Category,LifeBoxset
+ community,music,No Sub Sub-Category,indierocks
+ community,music,No Sub Sub-Category,MATRIX107
+ community,music,No Sub Sub-Category,ARprensayrp
+ community,music,No Sub Sub-Category,rkmoficial
+ community,music,No Sub Sub-Category,1Dmexfans
+ community,music,No Sub Sub-Category,DirectionersMex
+ community,music,No Sub Sub-Category,ROCKETSmusik
+ community,music,No Sub Sub-Category,nomutemx
+ community,music,No Sub Sub-Category,Kinetik_tv
+ community,personal,No Sub Sub-Category,M_A_Y_A_R_111
+ community,personal,No Sub Sub-Category,screamau
+ community,personal,No Sub Sub-Category,tuqueridasocia
+ community,personal,No Sub Sub-Category,werasosa
+ community,personal,No Sub Sub-Category,SoloDigamos
+ community,personal,No Sub Sub-Category,CitasEnFotos
+ community,personal,No Sub Sub-Category,Georg_Grey
+ community,personal,No Sub Sub-Category,EsDeDibujos
+ community,personal,No Sub Sub-Category,DavidMirandaZ
+ community,personal,No Sub Sub-Category,aguirre_alberto
+ community,political,No Sub Sub-Category,MiguelA_Godinez
+ community,political,No Sub Sub-Category,ANUTELMEX
+ community,political,No Sub Sub-Category,GabinoCue
+ community,political,No Sub Sub-Category,A_Encinas_R
+ community,political,No Sub Sub-Category,politicosmex
+ community,political,No Sub Sub-Category,Anysxi
+ community,political,No Sub Sub-Category,Soy132MX
+ community,political,No Sub Sub-Category,CibernautasPRI
+ community,political,No Sub Sub-Category,FelipeCantuR
+ community,political,No Sub Sub-Category,GIRE_mx
+ community,religion,No Sub Sub-Category,JesusEsFieI
+ community,religion,No Sub Sub-Category,Tribuna_ISR
+ community,sport-interest,No Sub Sub-Category,futbol_mex
+ community,sport-interest,No Sub Sub-Category,futaztecadep
+ community,sport-interest,No Sub Sub-Category,Reydlosdeportes
+ community,sport-interest,No Sub Sub-Category,BullyingFutbol
+ community,sport-interest,No Sub Sub-Category,AscensoMX
+ community,sport-interest,No Sub Sub-Category,SilbatazoMX
+ community,sport-interest,No Sub Sub-Category,nachoscocco32
+ community,sport-interest,No Sub Sub-Category,futbolsapiens
+ community,sport-interest,No Sub Sub-Category,TiempoReal_mx
+ community,sport-interest,No Sub Sub-Category,futallday
+ entertainment,apps,No Sub Sub-Category,SkyAlertMx
+ entertainment,apps,No Sub Sub-Category,SpotifyMexico
+ entertainment,apps,No Sub Sub-Category,EasyTaxiMexico
+ entertainment,apps,No Sub Sub-Category,kiqer10
+ entertainment,apps,No Sub Sub-Category,CandyCrushMX
+ entertainment,apps,No Sub Sub-Category,Credilikeme
+ entertainment,apps,No Sub Sub-Category,Footmapps
+ entertainment,books,No Sub Sub-Category,FCEMexico
+ entertainment,books,No Sub Sub-Category,Larousse_latam
+ entertainment,books,No Sub Sub-Category,AlfaguaraMex
+ entertainment,books,No Sub Sub-Category,futbologia
+ entertainment,books,No Sub Sub-Category,MacmillanMexico
+ entertainment,books,No Sub Sub-Category,Aliaseditorial
+ entertainment,broadcast-show,No Sub Sub-Category,programa_hoy
+ entertainment,broadcast-show,No Sub Sub-Category,BreakingBad_AMC
+ entertainment,broadcast-show,No Sub Sub-Category,yaparate40
+ entertainment,broadcast-show,No Sub Sub-Category,futpicante
+ entertainment,broadcast-show,No Sub Sub-Category,netas_divinas
+ entertainment,broadcast-show,No Sub Sub-Category,LaVozMexico
+ entertainment,broadcast-show,No Sub Sub-Category,SabadazoOficial
+ entertainment,broadcast-show,No Sub Sub-Category,VengaLaAlegria
+ entertainment,broadcast-show,No Sub Sub-Category,miembrosalaire
+ entertainment,broadcast-show,No Sub Sub-Category,Mojoetv
+ entertainment,event,No Sub Sub-Category,vivelatino
+ entertainment,event,No Sub Sub-Category,cervantino
+ entertainment,event,No Sub Sub-Category,FICM
+ entertainment,event,No Sub Sub-Category,CoronaCapital
+ entertainment,event,No Sub Sub-Category,FILGuadalajara
+ entertainment,event,No Sub Sub-Category,Ambulante
+ entertainment,event,No Sub Sub-Category,fashionweekmx
+ entertainment,event,No Sub Sub-Category,Campuspartymx
+ entertainment,event,No Sub Sub-Category,MUTEK_MX
+ entertainment,event,No Sub Sub-Category,Zignia_Live
+ entertainment,fictional-character,No Sub Sub-Category,ProfChiflado
+ entertainment,fictional-character,No Sub Sub-Category,juanallen
+ entertainment,film-industry,No Sub Sub-Category,Cinepolis
+ entertainment,film-industry,No Sub Sub-Category,Cinemex
+ entertainment,film-industry,No Sub Sub-Category,SonyPicturesMX
+ entertainment,film-industry,No Sub Sub-Category,WBPictures_Mx
+ entertainment,film-industry,No Sub Sub-Category,CorazonFilms
+ entertainment,film-industry,No Sub Sub-Category,ParamountMexico
+ entertainment,film-industry,No Sub Sub-Category,amantesdelcine
+ entertainment,film-industry,No Sub Sub-Category,IMCINE
+ entertainment,film-industry,No Sub Sub-Category,UniversalMX
+ entertainment,film-industry,No Sub Sub-Category,videocine
+ entertainment,music-industry,No Sub Sub-Category,sonymusicmexico
+ entertainment,music-industry,No Sub Sub-Category,ocesa_rock
+ entertainment,music-industry,No Sub Sub-Category,UMusicMexico
+ entertainment,music-industry,No Sub Sub-Category,warnermusicmex
+ entertainment,music-industry,No Sub Sub-Category,vastagomusic
+ entertainment,music-industry,No Sub Sub-Category,ElectronicaMX
+ entertainment,music-industry,No Sub Sub-Category,noiselab
+ entertainment,music-industry,No Sub Sub-Category,WestWoodEntt
+ entertainment,music-industry,No Sub Sub-Category,Sicariotv
+ entertainment,music-industry,No Sub Sub-Category,seitrack
+ entertainment,online-show,No Sub Sub-Category,werevertumorro
+ entertainment,online-show,No Sub Sub-Category,yuyacst
+ entertainment,online-show,No Sub Sub-Category,Wereverwero
+ entertainment,online-show,No Sub Sub-Category,Fernanfloo
+ entertainment,online-show,No Sub Sub-Category,AlexXxStrecci
+ entertainment,online-show,No Sub Sub-Category,benshorts
+ entertainment,online-show,No Sub Sub-Category,Mago_Fit
+ entertainment,online-show,No Sub Sub-Category,EvaDeMetal
+ entertainment,online-show,No Sub Sub-Category,vetealaversh
+ entertainment,online-show,No Sub Sub-Category,PPTeamLesslie
+ media,media-house,No Sub Sub-Category,Radio_Formula
+ media,media-house,No Sub Sub-Category,MarvelLATAM
+ media,media-house,No Sub Sub-Category,artsandcraftsmx
+ media,media-house,No Sub Sub-Category,marvelmex
+ media,media-house,No Sub Sub-Category,DCcomicsMX
+ media,media-house,No Sub Sub-Category,DisneyPrensaMX
+ media,media-house,No Sub Sub-Category,uniradionoticia
+ media,media-house,No Sub Sub-Category,UniradioInforma
+ media,media-house,No Sub Sub-Category,unotv_bites
+ media,media-house,No Sub Sub-Category,AGINFOR
+ media,news,No Sub Sub-Category,telediariomty
+ media,news,No Sub Sub-Category,info7mty
+ media,news,No Sub Sub-Category,_LASNOTICIASMTY
+ media,news,No Sub Sub-Category,PlanetaCNN
+ media,news,No Sub Sub-Category,OroNoticias
+ media,news,No Sub Sub-Category,linea_caliente
+ media,news,No Sub Sub-Category,xeudeportes
+ media,news,No Sub Sub-Category,OnceNoticiasTV
+ media,news,No Sub Sub-Category,lacronicacom
+ media,news,No Sub Sub-Category,Noticias
+ media,online-media,No Sub Sub-Category,AristeguiOnline
+ media,online-media,No Sub Sub-Category,mediotiempo
+ media,online-media,No Sub Sub-Category,Pajaropolitico
+ media,online-media,No Sub Sub-Category,Quien
+ media,online-media,No Sub Sub-Category,SinEmbargoMX
+ media,online-media,No Sub Sub-Category,TienesQVerlo
+ media,online-media,No Sub Sub-Category,Notimex
+ media,online-media,No Sub Sub-Category,ConstituyenteTW
+ media,online-media,No Sub Sub-Category,chicuela
+ media,online-media,No Sub Sub-Category,Inspiras_
+ media,printed-media,No Sub Sub-Category,El_Universal_Mx
+ media,printed-media,No Sub Sub-Category,revistaproceso
+ media,printed-media,No Sub Sub-Category,Milenio
+ media,printed-media,No Sub Sub-Category,REFORMACOM
+ media,printed-media,No Sub Sub-Category,ChilangoCom
+ media,printed-media,No Sub Sub-Category,lajornadaonline
+ media,printed-media,No Sub Sub-Category,Excelsior
+ media,printed-media,No Sub Sub-Category,GlamourMex
+ media,printed-media,No Sub Sub-Category,LaJornada
+ media,printed-media,No Sub Sub-Category,record_mexico
+ media,radio-media,No Sub Sub-Category,los40mx
+ media,radio-media,No Sub Sub-Category,NoticiasMVS
+ media,radio-media,No Sub Sub-Category,977_fm
+ media,radio-media,No Sub Sub-Category,Reactor105
+ media,radio-media,No Sub Sub-Category,ExaFM
+ media,radio-media,No Sub Sub-Category,Ibero909FM
+ media,radio-media,No Sub Sub-Category,ESPNRF
+ media,radio-media,No Sub Sub-Category,alfa913fm
+ media,radio-media,No Sub Sub-Category,kebuenaoficial
+ media,radio-media,No Sub Sub-Category,laz1073
+ media,tv-channels,No Sub Sub-Category,TD_Deportes
+ media,tv-channels,No Sub Sub-Category,CNNMex
+ media,tv-channels,No Sub Sub-Category,tvtelehit
+ media,tv-channels,No Sub Sub-Category,NTelevisa_com
+ media,tv-channels,No Sub Sub-Category,AztecaDeportes
+ media,tv-channels,No Sub Sub-Category,multimediostv
+ media,tv-channels,No Sub Sub-Category,Azteca
+ media,tv-channels,No Sub Sub-Category,Foro_TV
+ media,tv-channels,No Sub Sub-Category,tdn_twit
+ media,tv-channels,No Sub Sub-Category,TvBandamax
+ media,web-portal,No Sub Sub-Category,googlemexico
+ media,web-portal,No Sub Sub-Category,YahooMx
+ place,city,No Sub Sub-Category,ObservadorDeJAL
+ place,city,No Sub Sub-Category,ZapopanGobierno
+ place,city,No Sub Sub-Category,PuertoVallarta
+ place,city,No Sub Sub-Category,AcapulcoGob
+ place,city,No Sub Sub-Category,Del_Coyoacan
+ place,city,No Sub Sub-Category,ViveQueretaro
+ place,city,No Sub Sub-Category,SanPedroNL
+ place,city,No Sub Sub-Category,mexicaliorg
+ place,city,No Sub Sub-Category,socialmty
+ place,city,No Sub Sub-Category,SanMiguelMB
+ place,country,No Sub Sub-Category,VisitMex
+ place,country,No Sub Sub-Category,trafico889
+ place,country,No Sub Sub-Category,TimeOutMexico
+ place,country,No Sub Sub-Category,mexico
+ place,country,No Sub Sub-Category,TurismoNL
+ place,country,No Sub Sub-Category,MexicoTourismBd
+ place,country,No Sub Sub-Category,VisiteoMexico
+ place,country,No Sub Sub-Category,DescubreeuaMX
+ place,country,No Sub Sub-Category,VisitMexicoLA
+ place,country,No Sub Sub-Category,GuanajuatoMex
+ place,cultural-center,No Sub Sub-Category,bellasartesinba
+ place,cultural-center,No Sub Sub-Category,AuditorioMx
+ place,cultural-center,No Sub Sub-Category,MUNALmx
+ place,cultural-center,No Sub Sub-Category,MuseoCDMX
+ place,cultural-center,No Sub Sub-Category,mbellasartes
+ place,cultural-center,No Sub Sub-Category,muac_unam
+ place,cultural-center,No Sub Sub-Category,museotamayo
+ place,cultural-center,No Sub Sub-Category,DoloresOlmedo
+ place,cultural-center,No Sub Sub-Category,PalacioOficial
+ place,cultural-center,No Sub Sub-Category,el_mayer
+ place,medical-center,No Sub Sub-Category,VisionOcularMty
+ place,medical-center,No Sub Sub-Category,bienestamx
+ place,medical-center,No Sub Sub-Category,LabPolanco
+ place,medical-center,No Sub Sub-Category,Hospitaria
+ place,medical-center,No Sub Sub-Category,MedicaSurOfi
+ place,medical-center,No Sub Sub-Category,chopo_cercadeti
+ place,medical-center,No Sub Sub-Category,CryoCellMexico
+ place,medical-center,No Sub Sub-Category,depilitegold
+ place,medical-center,No Sub Sub-Category,ClinicadelaVoz
+ place,medical-center,No Sub Sub-Category,HospitalTeleton
+ place,night-life,No Sub Sub-Category,elimperialclub
+ place,night-life,No Sub Sub-Category,caraduramx
+ place,night-life,No Sub Sub-Category,LimantourMX
+ place,night-life,No Sub Sub-Category,oldjacks
+ place,night-life,No Sub Sub-Category,taraenlaroma
+ place,night-life,No Sub Sub-Category,BakkhosMX
+ place,night-life,No Sub Sub-Category,BarezzitoSurGDL
+ place,night-life,No Sub Sub-Category,LosAngelesSalon
+ place,restaurant-cafe,No Sub Sub-Category,redlobstermx
+ place,restaurant-cafe,No Sub Sub-Category,MorimotoMex
+ place,restaurant-cafe,No Sub Sub-Category,BeefbarMexico
+ place,restaurant-cafe,No Sub Sub-Category,DonBatiz
+ place,restaurant-cafe,No Sub Sub-Category,MariaBonitaCR
+ place,restaurant-cafe,No Sub Sub-Category,BiceBistroMX
+ place,restaurant-cafe,No Sub Sub-Category,paktiadgo
+ place,restaurant-cafe,No Sub Sub-Category,LaGruta
+ place,restaurant-cafe,No Sub Sub-Category,MrBrownMty
+ place,restaurant-cafe,No Sub Sub-Category,lapescasatelite
+ place,shopping-center,No Sub Sub-Category,palaciohierro
+ place,shopping-center,No Sub Sub-Category,GaleriasGdl
+ place,shopping-center,No Sub Sub-Category,AntaraFashion
+ place,shopping-center,No Sub Sub-Category,GaleriasVO
+ place,shopping-center,No Sub Sub-Category,Perisur
+ place,shopping-center,No Sub Sub-Category,OutletPuebla
+ place,shopping-center,No Sub Sub-Category,paseo_altozano
+ place,shopping-center,No Sub Sub-Category,AnteaMx
+ place,shopping-center,No Sub Sub-Category,PlazaFiestaMx
+ place,shopping-center,No Sub Sub-Category,LaGranPlazaGDL
+ society,csr,No Sub Sub-Category,SomosCocaCola
+ society,csr,No Sub Sub-Category,FBBVABancomer
+ society,csr,No Sub Sub-Category,fundaciontelmex
+ society,csr,No Sub Sub-Category,FTelefonicaMX
+ society,csr,No Sub Sub-Category,Fandelagua
+ society,csr,No Sub Sub-Category,autismoteleton
+ society,csr,No Sub Sub-Category,FundacionPfizer
+ society,csr,No Sub Sub-Category,CRITPuebla
+ society,csr,No Sub Sub-Category,carreratelcel
+ society,education,No Sub Sub-Category,SismologicoMX
+ society,education,No Sub Sub-Category,UNAM_MX
+ society,education,No Sub Sub-Category,CulturaUNAM
+ society,education,No Sub Sub-Category,CCCMexico
+ society,education,No Sub Sub-Category,IPN_MX
+ society,education,No Sub Sub-Category,TecdeMonterrey
+ society,education,No Sub Sub-Category,ButacaUNAM
+ society,education,No Sub Sub-Category,udg_oficial
+ society,education,No Sub Sub-Category,musicaunam
+ society,education,No Sub Sub-Category,uanl
+ society,governmental,No Sub Sub-Category,PresidenciaMX
+ society,governmental,No Sub Sub-Category,gobrep
+ society,governmental,No Sub Sub-Category,CinetecaMexico
+ society,governmental,No Sub Sub-Category,Conaculta
+ society,governmental,No Sub Sub-Category,GobiernoDF
+ society,governmental,No Sub Sub-Category,Profeco
+ society,governmental,No Sub Sub-Category,SSP_CDMX
+ society,governmental,No Sub Sub-Category,SEGOB_mx
+ society,governmental,No Sub Sub-Category,CAPUFE
+ society,governmental,No Sub Sub-Category,Infonavit
+ society,ngo,No Sub Sub-Category,INEMexico
+ society,ngo,No Sub Sub-Category,greenpeacemx
+ society,ngo,No Sub Sub-Category,TeletonMexico
+ society,ngo,No Sub Sub-Category,UNICEFMexico
+ society,ngo,No Sub Sub-Category,UNESCOMexico
+ society,ngo,No Sub Sub-Category,Tu_IMSS
+ society,ngo,No Sub Sub-Category,CINUmexico
+ society,ngo,No Sub Sub-Category,AIMexico
+ society,ngo,No Sub Sub-Category,oxfammexico
+ society,ngo,No Sub Sub-Category,donaenvida
+ society,politics,No Sub Sub-Category,EPN
+ society,politics,No Sub Sub-Category,FelipeCalderon
+ society,politics,No Sub Sub-Category,lopezobrador_
+ society,politics,No Sub Sub-Category,ManceraMiguelMX
+ society,politics,No Sub Sub-Category,m_ebrard
+ society,politics,No Sub Sub-Category,JosefinaVM
+ society,politics,No Sub Sub-Category,Javier_Alarcon_
+ society,politics,No Sub Sub-Category,RoyCampos
+ society,politics,No Sub Sub-Category,osoriochong
+ society,politics,No Sub Sub-Category,LVidegaray
+ society,professional-association,No Sub Sub-Category,SnteNacional
+ society,professional-association,No Sub Sub-Category,Coparmex
+ society,professional-association,No Sub Sub-Category,AmapMx
+ society,professional-association,No Sub Sub-Category,AmaproMx
+ society,professional-association,No Sub Sub-Category,procab_mexico
+ sport,sport-club,No Sub Sub-Category,miseleccionmx
+ sport,sport-club,No Sub Sub-Category,Chivas
+ sport,sport-club,No Sub Sub-Category,CF_America
+ sport,sport-club,No Sub Sub-Category,LIGABancomerMX
+ sport,sport-club,No Sub Sub-Category,Cruz_Azul_FC
+ sport,sport-club,No Sub Sub-Category,PumasMX
+ sport,sport-club,No Sub Sub-Category,Rayados
+ sport,sport-club,No Sub Sub-Category,TigresOficial
+ sport,sport-club,No Sub Sub-Category,America_FC
+ sport,sport-club,No Sub Sub-Category,clubleonfc
+ sport,sport-event,No Sub Sub-Category,JVeracruz2014
+ sport,sport-event,No Sub Sub-Category,NASCARmxOficial
+ sport,sport-event,No Sub Sub-Category,SpartanRaceMex
+ sport,sport-event,No Sub Sub-Category,TheColorRunMEX
+ sport,sport-event,No Sub Sub-Category,UnbreakableMX
+ sport,sport-event,No Sub Sub-Category,LOIMX
+ sport,sport-event,No Sub Sub-Category,UMXCrossfit
+ sport,sport-organization,No Sub Sub-Category,FMF
+ sport,sport-organization,No Sub Sub-Category,nflmx
+ sport,sport-organization,No Sub Sub-Category,luchalibreaaa
+ sport,sport-organization,No Sub Sub-Category,LMPbeisbol
+ sport,sport-organization,No Sub Sub-Category,totalrunning
+ sport,sport-organization,No Sub Sub-Category,emocionD
+ sport,sport-organization,No Sub Sub-Category,NBAMEX
+ sport,sport-organization,No Sub Sub-Category,wwe_mex
+ sport,sport-organization,No Sub Sub-Category,asdeporte
+ sport,sport-organization,No Sub Sub-Category,COM_Mexico
